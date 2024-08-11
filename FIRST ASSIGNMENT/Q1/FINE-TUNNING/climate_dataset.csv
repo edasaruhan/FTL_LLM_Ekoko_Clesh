@@ -1,0 +1,117 @@
+created_at,id,lng,lat,topic,sentiment,stance,gender,temperature_avg,aggressiveness
+2006-06-06 16:06:42+00:00,6132,,,Weather Extremes,-0.097179938,neutral,female,,aggressive
+2006-07-23 21:52:30+00:00,13275,-73.9495823,40.6501038,Weather Extremes,0.575777351,neutral,undefined,-1.1147681,aggressive
+2006-08-29 01:52:30+00:00,23160,,,Weather Extremes,0.500478979,neutral,male,,aggressive
+2006-11-07 02:46:52+00:00,57868,,,Weather Extremes,0.032816064,neutral,male,,aggressive
+2006-11-27 14:27:43+00:00,304553,,,Importance of Human Intervantion,-0.090428409,neutral,male,,aggressive
+2006-11-29 23:21:04+00:00,454763,,,Seriousness of Gas Emissions,-0.28346699,neutral,male,,aggressive
+2006-12-11 22:08:14+00:00,971753,,,Ideological Positions on Global Warming,-0.04662584,believer,male,,not aggressive
+2006-12-14 01:39:10+00:00,1092823,-122.41942,37.77493,Ideological Positions on Global Warming,-0.544194675,neutral,male,4.2285404,aggressive
+2006-12-17 19:43:09+00:00,1278023,-79.79198,36.07264,Weather Extremes,-0.565027601,denier,male,5.4781747,aggressive
+2006-12-21 01:39:01+00:00,1455543,-121.80579,38.00492,Weather Extremes,0.650959907,neutral,male,-1.6521555,not aggressive
+2006-12-29 22:21:09+00:00,1835943,,,Impact of Resource Overconsumption,0.634858615,believer,male,,aggressive
+2006-12-31 10:47:25+00:00,1893063,-1.9026911,52.4796992,Weather Extremes,0.670905292,neutral,male,4.8645205,aggressive
+2007-01-06 17:36:51+00:00,2266613,-73.9495823,40.6501038,Weather Extremes,-0.56782136,neutral,male,15.600876,aggressive
+2007-01-06 18:08:03+00:00,2268453,,,Weather Extremes,-0.202490926,neutral,male,,not aggressive
+2007-01-07 22:44:24+00:00,2332873,,,Weather Extremes,-0.394609825,neutral,male,,aggressive
+2007-01-08 17:46:45+00:00,2377823,-0.12574,51.50853,Impact of Resource Overconsumption,-0.531148788,neutral,undefined,4.908487,aggressive
+2007-01-09 16:43:09+00:00,2464013,,,Global stance,-0.474514604,neutral,male,,aggressive
+2007-01-09 17:00:53+00:00,2466073,,,Global stance,-0.474514604,neutral,male,,aggressive
+2007-01-09 18:00:59+00:00,2476603,,,Global stance,-0.474514604,neutral,male,,aggressive
+2007-01-09 19:54:38+00:00,2493423,,,Global stance,-0.474514604,neutral,male,,aggressive
+2007-01-10 22:21:35+00:00,2579333,,,Global stance,-0.162596452,neutral,male,,aggressive
+2007-01-10 22:22:04+00:00,2579403,-0.1276474,51.5073219,Global stance,-0.162596452,neutral,male,4.59847,aggressive
+2007-01-10 22:22:15+00:00,2579433,-0.1276474,51.5073219,Global stance,-0.162596452,neutral,male,4.59847,aggressive
+2007-01-11 06:21:43+00:00,2604673,-0.1276474,51.5073219,Importance of Human Intervantion,0.048919663,believer,male,4.7022176,not aggressive
+2007-01-11 09:30:36+00:00,2611903,,,Weather Extremes,-0.353563428,neutral,male,,aggressive
+2007-01-14 17:32:20+00:00,2840473,,,Weather Extremes,0.540742372,neutral,male,,not aggressive
+2007-01-16 01:40:53+00:00,2958313,,,Importance of Human Intervantion,0.447938868,believer,male,,not aggressive
+2007-01-16 12:20:32+00:00,2998933,,,Importance of Human Intervantion,0.112459839,believer,male,,not aggressive
+2007-01-16 12:30:55+00:00,2999523,-0.12574,51.50853,Importance of Human Intervantion,0.112459839,believer,male,4.9978456,not aggressive
+2007-01-16 15:30:44+00:00,3013933,,,Politics,-0.013499147,neutral,male,,not aggressive
+2007-01-16 19:53:59+00:00,3040243,-96.7968559,32.7762719,Weather Extremes,0.027764864,neutral,male,-9.293259,aggressive
+2007-01-17 02:18:13+00:00,3081573,-73.9495823,40.6501038,Weather Extremes,0.026214224,neutral,male,-2.8510103,not aggressive
+2007-01-17 08:52:56+00:00,3106593,,,Global stance,0.455773557,neutral,male,,aggressive
+2007-01-18 13:22:52+00:00,3241963,-80.0144842,36.1126365,Weather Extremes,-0.377973888,denier,male,-3.005815,aggressive
+2007-01-19 10:01:59+00:00,3340323,,,Significance of Pollution Awareness Events,0.411505431,believer,male,,not aggressive
+2007-01-21 09:30:57+00:00,3564043,13.61232,43.43617,Weather Extremes,0.832811214,neutral,male,5.682824,not aggressive
+2007-01-21 11:00:58+00:00,3568763,,,Global stance,0.07105726,neutral,male,,not aggressive
+2007-01-21 12:01:44+00:00,3571023,,,Global stance,-0.498420775,believer,male,,not aggressive
+2007-01-21 20:05:56+00:00,3603643,,,Weather Extremes,0.243266732,believer,male,,aggressive
+2007-01-22 21:53:08+00:00,3734443,,,Donald Trump versus Science,0.491507631,neutral,male,,aggressive
+2007-01-23 15:50:31+00:00,3819323,,,Importance of Human Intervantion,-0.374999893,believer,male,,not aggressive
+2007-01-23 15:50:42+00:00,3819393,,,Importance of Human Intervantion,-0.374999893,believer,male,,not aggressive
+2007-01-23 16:10:31+00:00,3821293,-0.1276474,51.5073219,Importance of Human Intervantion,-0.374999893,believer,male,-3.0751328,not aggressive
+2007-01-24 01:20:35+00:00,3882043,,,Weather Extremes,0.595921947,believer,male,,aggressive
+2007-01-24 10:10:07+00:00,3922063,,,Weather Extremes,0.118838989,neutral,male,,aggressive
+2007-01-24 10:10:33+00:00,3922153,-0.12574,51.50853,Global stance,-0.588504805,neutral,male,-2.8180542,aggressive
+2007-01-24 10:11:12+00:00,3922243,-0.12574,51.50853,Global stance,-0.588504805,neutral,male,-2.8180542,aggressive
+2007-01-24 10:13:18+00:00,3922373,-80.24417,25.96389,Weather Extremes,0.56707136,denier,undefined,3.7465112,not aggressive
+2007-01-24 10:20:29+00:00,3922773,,,Global stance,-0.588504805,neutral,male,,aggressive
+2007-01-25 06:07:50+00:00,4026763,,,Weather Extremes,0.539232915,neutral,male,,aggressive
+2007-01-26 21:43:00+00:00,4242813,,,Weather Extremes,0.351422559,neutral,female,,aggressive
+2007-01-27 14:20:34+00:00,4306383,,,Global stance,-0.369648242,believer,male,,not aggressive
+2007-01-27 14:30:32+00:00,4306863,-0.1276474,51.5073219,Global stance,-0.369648242,believer,male,1.5351759,not aggressive
+2007-01-27 14:40:38+00:00,4307243,,,Global stance,-0.369648242,believer,male,,not aggressive
+2007-01-27 17:51:07+00:00,4318073,-0.1276474,51.5073219,Global stance,-0.31739507,believer,male,1.5351759,not aggressive
+2007-01-30 18:16:14+00:00,4709463,,,Weather Extremes,0.766852158,neutral,male,,not aggressive
+2007-01-30 18:30:16+00:00,4711363,,,Importance of Human Intervantion,0.320537362,neutral,male,,not aggressive
+2007-01-30 20:38:00+00:00,4729003,-0.12574,51.50853,Undefined / One Word Hashtags,-0.118446622,believer,male,2.1094387,aggressive
+2007-01-31 05:48:31+00:00,4790723,,,Global stance,-0.474845603,believer,male,,not aggressive
+2007-01-31 09:38:44+00:00,4805803,-0.12574,51.50853,Global stance,-0.122697413,believer,male,1.9527698,not aggressive
+2007-02-01 08:45:09+00:00,4951613,,,Weather Extremes,0.504999766,believer,male,,not aggressive
+2007-02-01 12:50:26+00:00,4969943,,,Weather Extremes,0.580045102,believer,male,,aggressive
+2007-02-01 14:46:54+00:00,4982153,-79.3839347,43.6534817,Weather Extremes,-0.595624893,neutral,male,-0.04534871,not aggressive
+2007-02-01 17:23:48+00:00,5005423,,,Importance of Human Intervantion,0.505937645,believer,male,,not aggressive
+2007-02-01 18:49:24+00:00,5016233,,,Importance of Human Intervantion,-0.220228615,believer,male,,not aggressive
+2007-02-01 19:15:13+00:00,5019373,,,Global stance,-0.397140428,believer,male,,not aggressive
+2007-02-01 22:30:31+00:00,5044463,-0.12574,51.50853,Importance of Human Intervantion,-0.073104015,believer,male,3.967322,not aggressive
+2007-02-02 07:50:38+00:00,5091903,,,Global stance,0.016648375,neutral,undefined,,not aggressive
+2007-02-02 09:09:49+00:00,5096513,-1.89983,52.48142,Politics,-0.088139123,neutral,male,2.991084,aggressive
+2007-02-02 14:20:13+00:00,5119513,,,Weather Extremes,0.116726552,neutral,male,,not aggressive
+2007-02-02 16:24:26+00:00,5131193,,,Importance of Human Intervantion,-0.536818421,believer,male,,aggressive
+2007-02-02 18:15:51+00:00,5144253,-73.9495823,40.6501038,Weather Extremes,0.159729716,neutral,male,1.846384,not aggressive
+2007-02-02 20:09:58+00:00,5157463,,,Importance of Human Intervantion,0.296478387,neutral,male,,aggressive
+2007-02-03 02:20:21+00:00,5196513,,,Importance of Human Intervantion,-0.500312544,believer,male,,aggressive
+2007-02-03 02:30:23+00:00,5197163,-0.1276474,51.5073219,Importance of Human Intervantion,-0.496617384,believer,male,0.095783636,not aggressive
+2007-02-03 04:12:34+00:00,5203523,-3.18,51.48,Weather Extremes,-0.378139166,believer,male,-0.0455239,aggressive
+2007-02-03 15:15:01+00:00,5235923,,,Importance of Human Intervantion,0.029538259,believer,male,,not aggressive
+2007-02-04 02:06:56+00:00,5288583,,,Ideological Positions on Global Warming,-0.089225515,believer,male,,aggressive
+2007-02-04 20:39:05+00:00,5314366,-118.32674,34.09834,Weather Extremes,0.638788186,believer,male,4.387858,not aggressive
+2007-02-04 20:52:31+00:00,5314470,,,Importance of Human Intervantion,0.475117281,neutral,male,,not aggressive
+2007-02-04 21:12:58+00:00,5314615,,,Donald Trump versus Science,0.559563799,neutral,male,,aggressive
+2007-02-05 16:48:57+00:00,5324848,-86.7743531,36.1622296,Weather Extremes,-0.220481278,neutral,male,-8.849,not aggressive
+2007-02-05 21:55:41+00:00,5328495,-114.0625892,51.0534234,Importance of Human Intervantion,0.497590928,neutral,male,8.448126,not aggressive
+2007-02-06 07:27:05+00:00,5333741,,,Global stance,0.577130948,neutral,male,,aggressive
+2007-02-06 08:39:43+00:00,5334170,-122.6741949,45.5202471,Seriousness of Gas Emissions,-0.247723411,neutral,male,2.4982007,aggressive
+2007-02-06 10:19:15+00:00,5334810,-0.12574,51.50853,Importance of Human Intervantion,-0.398106729,believer,male,-3.605249,not aggressive
+2007-02-06 12:48:40+00:00,5336007,-0.12574,51.50853,Weather Extremes,0.044129946,believer,male,-3.605249,not aggressive
+2007-02-06 21:40:46+00:00,5342226,,,Importance of Human Intervantion,0.7919917,neutral,male,,not aggressive
+2007-02-07 06:08:54+00:00,5348201,,,Importance of Human Intervantion,-0.364389344,believer,male,,not aggressive
+2007-02-07 06:09:20+00:00,5348207,-0.12574,51.50853,Importance of Human Intervantion,-0.364153354,believer,male,-4.560754,not aggressive
+2007-02-07 12:39:30+00:00,5351404,,,Weather Extremes,-0.516856306,neutral,female,,aggressive
+2007-02-07 14:44:32+00:00,5352771,,,Weather Extremes,0.07176983,neutral,male,,not aggressive
+2007-02-07 17:52:34+00:00,5355713,,,Weather Extremes,-0.716825041,denier,male,,aggressive
+2007-02-08 08:49:33+00:00,5367098,,,Weather Extremes,-0.14383291,denier,female,,not aggressive
+2007-02-09 15:46:29+00:00,5392174,-77.0074765,38.9778882,Donald Trump versus Science,-0.419884247,neutral,male,-6.8944745,aggressive
+2007-02-11 17:50:55+00:00,5431384,-122.67621,45.52345,Weather Extremes,-0.646425789,neutral,male,1.9020926,not aggressive
+2007-02-12 06:51:49+00:00,5448722,-123.11934,49.24966,Weather Extremes,-0.37224224,neutral,male,2.4606283,not aggressive
+2007-02-12 18:11:13+00:00,5461182,,,Global stance,0.563521611,believer,male,,aggressive
+2007-02-12 19:10:18+00:00,5462793,,,Importance of Human Intervantion,-0.132112417,believer,male,,aggressive
+2007-02-12 19:12:09+00:00,5462838,-0.12574,51.50853,Importance of Human Intervantion,-0.129529972,believer,male,3.3250158,not aggressive
+2007-02-13 17:33:58+00:00,5482273,,,Politics,-0.034180982,neutral,male,,not aggressive
+2007-02-13 21:01:12+00:00,5486243,,,Politics,-0.034180982,neutral,male,,not aggressive
+2007-02-14 07:11:12+00:00,5495631,,,Politics,-0.448667444,neutral,male,,not aggressive
+2007-02-14 07:40:10+00:00,5495854,,,Politics,-0.523454335,neutral,male,,not aggressive
+2007-02-14 08:00:16+00:00,5496024,,,Politics,-0.523454335,neutral,male,,not aggressive
+2007-02-14 10:50:36+00:00,5497780,-0.12574,51.50853,Global stance,0.349929505,believer,male,2.1599507,not aggressive
+2007-02-14 14:54:19+00:00,5500970,-111.50098,34.5003,Weather Extremes,-0.545773189,neutral,male,-2.213687,not aggressive
+2007-02-14 19:32:21+00:00,5506352,,,Weather Extremes,0.764989425,neutral,male,,not aggressive
+2007-02-14 20:23:12+00:00,5507294,-76.30551,40.03788,Weather Extremes,-0.60698612,neutral,male,-4.9403877,not aggressive
+2007-02-14 22:40:43+00:00,5510092,,,Weather Extremes,-0.410348136,believer,male,,aggressive
+2007-02-15 13:00:53+00:00,5519348,,,Importance of Human Intervantion,-0.004602625,believer,male,,not aggressive
+2007-02-15 13:01:38+00:00,5519358,-0.1276474,51.5073219,Importance of Human Intervantion,-0.004602625,believer,male,1.5019717,not aggressive
+2007-02-15 13:02:19+00:00,5519363,-0.1276474,51.5073219,Importance of Human Intervantion,-0.007063179,believer,male,1.5019717,not aggressive
+2007-02-16 01:43:54+00:00,5531579,-114.0625892,51.0534234,Importance of Human Intervantion,0.323378816,neutral,male,6.906876,not aggressive
+2007-02-16 02:10:12+00:00,5531972,,,Global stance,0.074312805,believer,male,,not aggressive
+2007-02-16 02:10:48+00:00,5531980,-0.12574,51.50853,Global stance,0.074312805,believer,male,2.9423597,not aggressive
