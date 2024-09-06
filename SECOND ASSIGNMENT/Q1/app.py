@@ -6,7 +6,7 @@ import json
 app = Flask(__name__)
 
 # Define the Gemini API key
-API_KEY = "AIzaSyCOVATD01Kci6brrxdl9gCrgjA-RzVzhEA"
+API_KEY = "SECRET-KEY"
 url = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={API_KEY}'
 
 # Function to generate text using the Gemini API

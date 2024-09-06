@@ -1,85 +1,103 @@
+It looks like you have a structured project with multiple assignments organized into folders. Based on the image of your folder structure, here’s how you can structure your **GitHub README.md** to describe the project:
+
 ---
 
-# Climate Sentiment Analysis with DistilBERT
+# FTL_LLM_EKOKO_CLESH Assignments
 
-This project demonstrates how to perform sentiment analysis on a climate-related dataset using a pre-trained DistilBERT model. The workflow includes loading a pre-trained model, preparing a dataset, evaluating the model before fine-tuning, fine-tuning the model, and evaluating the model after fine-tuning.
+This repository contains assignments and projects related to **Fine-Tuning Models** and **Comparison of Embeddings** using Hugging Face Transformers and other techniques.
 
-## Project Structure
+---
 
-- **`climate_dataset.csv`**: The dataset used for sentiment analysis. This file should contain at least two columns: `topic` (the text data) and `sentiment` (the sentiment labels).
+## 📁 Project Structure
 
-- **`notebooks/`**: Contains the Jupyter Notebook or script for running the analysis.
+```bash
+.
+├── FIRST ASSIGNMENT
+│   ├── Q1
+│   │   ├── FINE-TUNING              # Contains fine-tuning scripts and notebooks
+│   │   ├── HUGGING FACE             # Hugging Face model training and evaluation scripts
+│   │   └── Project Report.pdf       # Detailed report for Q1
+│   ├── Q2
+│   │   ├── FINE-TUNNING             # Contains fine-tuning scripts and notebooks for Q2
+│   │   ├── HUGGING FACE             # Hugging Face model training and evaluation scripts for Q2
+│   │   └── Project Report.pdf       # Detailed report for Q2
+├── SECOND ASSIGNMENT
+│   ├── Q1
+│   │   ├── app.py                   # Python script for Q1 in the second assignment
+│   │   └── evaluation_report.pdf    # Evaluation report for Q1
+│   ├── Q2
+│   │   ├── comparison.py            # Script comparing text embeddings for Q2 in the second assignment
+│   │   └── Embedding_Comparison_Report.pdf  # Report comparing performance of different embeddings
+├── README.md                        # This README file
+```
 
-- **`results/`**: Directory where evaluation results and model checkpoints are saved.
+---
 
-- **`logs/`**: Directory for logging information during training and evaluation.
+## First Assignment
+
+### Q1: Fine-Tuning and Hugging Face Model Training
+
+In this section, we explore fine-tuning pre-trained models using **Hugging Face Transformers**. The process includes:
+- Loading pre-trained models.
+- Fine-tuning the models on custom datasets.
+- Evaluating model performance.
+
+You can find the detailed reports and scripts in the respective subfolders.
+
+### Q2: Further Exploration of Fine-Tuning Techniques
+
+This section builds upon the previous question (Q1), diving deeper into model fine-tuning and comparison. Scripts and the final report are included in this directory.
+
+---
+
+## Second Assignment
+
+### Q1: Application Development
+
+For this task, we developed a Python application related to the fine-tuning of models or data processing. The Python script (`app.py`) and the evaluation report can be found under the `SECOND ASSIGNMENT/Q1` folder.
+
+### Q2: Comparison of Text Embeddings
+
+This task involves the comparison of three different types of text embeddings: **Word2Vec**, **GloVe**, and **BERT**. We analyze their performance on a text classification task using metrics such as **accuracy**, **precision**, **recall**, and **F1-score**. The comparison is documented in the `Embedding_Comparison_Report.pdf`.
+
+You can run the Python script `comparison.py` to reproduce the comparison.
+
+---
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/FTL_LLM_EKOKO_CLESH.git
+   ```
+
+2. Navigate to the folder of the assignment you want to explore, and follow the instructions in the respective scripts or notebooks.
+
+---
 
 ## Requirements
 
-- Python 3.x
-- PyTorch
-- Transformers
-- Datasets
-- pandas
-- matplotlib
+To run the code in this repository, you will need the following Python packages:
 
-You can install the necessary libraries using pip:
+- `numpy`
+- `pandas`
+- `scikit-learn`
+- `transformers`
+- `torch`
+- `keras`
+- `gensim`
+- `matplotlib`
+
+You can install all dependencies using the following command:
 
 ```bash
-pip install datasets transformers torch pandas matplotlib
+pip install numpy pandas scikit-learn torch transformers keras gensim matplotlib
 ```
 
-## Instructions
-
-### 1. Load the Pre-Trained Model
-
-The project starts by loading the pre-trained DistilBERT model and tokenizer. The model used is `distilbert-base-uncased-finetuned-sst-2-english`, which is fine-tuned for sentiment analysis.
-
-### 2. Data Preparation
-
-- **Loading Data**: The dataset is loaded from a CSV file.
-- **Visualization**: The distribution of sentiment labels is visualized using a bar chart.
-
-### 3. Tokenization and Dataset Preparation
-
-- **Tokenization**: The text data is tokenized using the DistilBERT tokenizer.
-- **Dataset Preparation**: The data is split into training and testing sets. A custom `ClimateDataset` class is defined to handle tokenized inputs and labels.
-
-### 4. Model Evaluation Before Fine-Tuning
-
-The model is evaluated on the test set before any fine-tuning to establish a baseline performance.
-
-### 5. Fine-Tuning the Model
-
-The model is fine-tuned on the training dataset with specified training arguments. The `Trainer` class from the Hugging Face `transformers` library is used for training.
-
-### 6. Evaluation After Fine-Tuning
-
-The fine-tuned model is evaluated on the test set to assess improvements in performance.
-
-### 7. Save the Fine-Tuned Model
-
-The fine-tuned model is saved to the `./fine-tuned-model` directory for future use.
-
-## Performance Comparison
-
-The performance of the model is compared before and after fine-tuning. Evaluation results are printed to show improvements.
-
-## Usage
-
-To use this project:
-
-1. Ensure you have the required libraries installed.
-2. Place your dataset in the same directory or adjust the path in the code.
-3. Run the provided Jupyter Notebook or Python script to perform the sentiment analysis.
+---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Hugging Face Transformers](https://github.com/huggingface/transformers)
-- [PyTorch](https://pytorch.org/)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
