@@ -1,4 +1,4 @@
-It looks like you have a structured project with multiple assignments organized into folders. Based on the image of your folder structure, here’s how you can structure your **GitHub README.md** to describe the project:
+
 
 ---
 
